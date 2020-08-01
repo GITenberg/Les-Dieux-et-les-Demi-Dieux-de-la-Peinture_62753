@@ -1,5 +1,5 @@
 _repo: Les-Dieux-et-les-Demi-Dieux-de-la-Peinture_62753
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Calamatta, Luigi
@@ -12,6 +12,9 @@ contributor:
     - https://it.wikipedia.org/wiki/Luigi_Calamatta
     - https://fr.wikipedia.org/wiki/Luigi_Calamatta
     - https://en.wikipedia.org/wiki/Luigi_Calamatta
+covers:
+- cover_type: archival
+  image_path: 62753-h/images/dieux_cover.jpg
 creator:
   authors:
   - agent_name: Saint-Victor, Paul de
@@ -47,6 +50,8 @@ creator:
     - https://en.wikipedia.org/wiki/Théophile_Gautier
     - https://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62753#Les-Dieux-et-les-Demi-Dieux-de-la-Peinture
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Beaux-Arts
