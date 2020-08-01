@@ -1,0 +1,72 @@
+_repo: Les-Dieux-et-les-Demi-Dieux-de-la-Peinture_62753
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Calamatta, Luigi
+    alias: Calamatta, M.
+    birthdate: 1802
+    deathdate: 1869
+    gutenberg_agent_id: '52103'
+    url: http://www.gutenberg.org/2009/agents/52103
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Luigi_Calamatta
+    - https://fr.wikipedia.org/wiki/Luigi_Calamatta
+    - https://en.wikipedia.org/wiki/Luigi_Calamatta
+creator:
+  authors:
+  - agent_name: Saint-Victor, Paul de
+    aliases:
+    - Saint-Victor, Paul Jacques Raymond Binsse, comte de
+    - De Saint-Victor, Paul
+    birthdate: 1827
+    deathdate: 1881
+    gutenberg_agent_id: '52102'
+    url: http://www.gutenberg.org/2009/agents/52102
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Paul_de_Saint-Victor
+    - https://en.wikipedia.org/wiki/Paul_Bins,_comte_de_Saint-Victor
+  - agent_name: Houssaye, Arsène
+    alias: Houssaye, Arsene
+    birthdate: 1815
+    deathdate: 1896
+    gutenberg_agent_id: '2998'
+    url: http://www.gutenberg.org/2009/agents/2998
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Ars%C3%A8ne_Houssaye
+    - https://en.wikipedia.org/wiki/Ars%C3%A8ne_Houssaye
+  - agent_name: Gautier, Théophile
+    aliases:
+    - Gautier, Theophile
+    - Gautier, Pierre-Jules-Théophile
+    - Gaultier, Theophile
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '5450'
+    url: http://www.gutenberg.org/2009/agents/5450
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Théophile_Gautier
+    - https://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Beaux-Arts
+- FR Peinture
+gutenberg_issued: '2020-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62753'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painters'
+- !lcc 'ND'
+- GITenberg
+tableOfContents: Introduction -- Léonard de Vinci -- Frà Giovanni da Fiesole -- Hemling
+  -- Raphaël -- Corrége -- Michel-Ange -- Giorgione -- Titien -- Paul Véronèse --
+  Holbein -- Rubens -- Van Dyck -- Rembrandt -- Don Diego Velasquez de Silva -- Esteban
+  Bartolome Murillo -- Nicolas Poussin -- Eustache Le Sueur -- David -- Prudhon --
+  Eugène Delacroix -- Sir Joshua Reynolds -- William Hogarth.
+title: Les Dieux et les Demi-Dieux de la Peinture
+url: http://www.gutenberg.org/ebooks/62753
